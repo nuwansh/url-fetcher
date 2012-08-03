@@ -2,12 +2,12 @@
 Easy way to retrieve images urls of a webpage.
 
 ### DESCRIPTION:
-URL Fetcher is that retreive images urls of a given webpage. This find given size of images of specific webpage.
+URL Fetcher is that retrieve images urls of a given webpage. This find given size of images of specific webpage.
 
 ### FEATURES:
 * XPath support for images searching
 * You can define images size (width)  
-* You can retrive fllowing things
+* You can retrieve flowing things
   * Images urls
   * Page title
 
@@ -27,5 +27,3 @@ URL Fetcher is that retreive images urls of a given webpage. This find given siz
 ### Copyright
 
 Copyright (c) 2012 Nuwan Sameera. See LICENSE.txt for further details.
-
-
