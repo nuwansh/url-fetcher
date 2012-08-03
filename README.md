@@ -1,18 +1,32 @@
 ### URL Fetcher
 Easy way to retrieve images urls of a webpage.
 
-### DESCRIPTION:
+### Description
 URL Fetcher is that retrieve images urls of a given webpage. This find given size of images of specific webpage.
 
-### FEATURES:
+### Features
 * XPath support for images searching
 * You can define images size (width)  
 * You can retrieve flowing things
   * Images urls
   * Page title
 
-### INSTALL:
+### Install
     sudo gem install url-fetcher
+
+### Dependency
+* [Nokogiri](https://github.com/sparklemotion/nokogiri)
+* [Image_size](https://github.com/toy/image_size)
+
+### Examples
+    doc = Fetch::UrlFetcher.new({:url => "http://google.com", :width => 100}).find
+
+    #Get retrieved urls Array()
+    doc.image_urls 
+    
+    #Get give page title
+    doc.title
+
 
 ###  Contributing to url-fetcher
  

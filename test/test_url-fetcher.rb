@@ -21,15 +21,6 @@ describe Fetch::UrlFetcher do
     end
   end
 
-# describe "when user submit wrong URL(google)" do 
-#   it "must respond with error" do 
-#     proc {
-#       uri = Fetch::UrlFetcher.new({:url => @submit_url, :width => 100})
-#       uri.custom_error
-#     }.must_raise Fetch::MyCustomException
-#   end
-# end
-
   describe "When system process given correct URL" do 
     it "must respond with paths of cannced images" do 
       uri = Fetch::UrlFetcher.new({:url => @submit_url, :width => 100})
