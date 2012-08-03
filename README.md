@@ -12,7 +12,7 @@ URL Fetcher is that retreive images urls of a given webpage. This find given siz
   * Page title
 
 ### INSTALL:
-    sudo gem install nokogiri
+    sudo gem install url-fetcher
 
 ###  Contributing to url-fetcher
  
