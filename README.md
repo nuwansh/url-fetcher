@@ -24,7 +24,7 @@ URL Fetcher is that retrieve images urls of a given webpage. This find given siz
     #Get retrieved urls Array()
     doc.image_urls 
     
-    #Get give page title
+    #Get given page title
     doc.title
 
 
