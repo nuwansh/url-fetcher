@@ -29,7 +29,7 @@ Gem::Specification.new do |s|
     "test/test_url-fetcher.rb",
     "url-fetcher.gemspec"
   ]
-  s.homepage = "http://github.com/nuwansh/url-fetcher"
+  s.homepage = "https://github.com/nuwansh/url-fetcher"
   s.licenses = ["MIT"]
   s.require_paths = ["lib"]
   s.rubygems_version = "1.8.11"
