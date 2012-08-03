@@ -1,6 +1,6 @@
 url-fetcher
 ===========
-Easy way to retrieve images urls of a webpage
+Easy way to retrieve images urls of a webpage.
 
 Contributing to url-fetcher
 ===========
@@ -16,7 +16,6 @@ Contributing to url-fetcher
 Copyright
 ===========
 
-Copyright (c) 2012 Nuwan Sameera. See LICENSE.txt for
-further details.
+Copyright (c) 2012 Nuwan Sameera. See LICENSE.txt for further details.
 
 
