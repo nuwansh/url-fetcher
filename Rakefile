@@ -15,7 +15,7 @@ require 'jeweler'
 Jeweler::Tasks.new do |gem|
   # gem is a Gem::Specification... see http://docs.rubygems.org/read/chapter/20 for more options
   gem.name = "url-fetcher"
-  gem.homepage = "http://github.com/nuwansh/url-fetcher"
+  gem.homepage = "https://github.com/nuwansh/url-fetcher"
   gem.license = "MIT"
   gem.summary = %Q{Easy way to retrieve images urls of a webpage}
   gem.description = %Q{Url fetcher gem scan given webpage and will find all images. This gem can have to sort images from size.}
