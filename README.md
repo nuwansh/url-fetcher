@@ -1,6 +1,18 @@
-url-fetcher
-===========
+= URL Fetcher
 Easy way to retrieve images urls of a webpage.
+
+== DESCRIPTION:
+URL Fetcher is that retreive images urls of a given webpage. This find given size of images of specific webpage.
+
+== FEATURES:
+* XPath support for images searching
+* You can define images size (width)  
+* You can retrive fllowing things
+  * Images urls
+  * Page title
+
+== INSTALL:
+    sudo gem install nokogiri
 
 Contributing to url-fetcher
 ===========
