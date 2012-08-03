@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/url-fetcher.rb",
     "test/helper.rb",
-    "test/test_url-fetcher.rb"
+    "test/test_url-fetcher.rb",
+    "url-fetcher.gemspec"
   ]
   s.homepage = "http://github.com/nuwansh/url-fetcher"
   s.licenses = ["MIT"]
